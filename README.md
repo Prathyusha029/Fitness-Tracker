@@ -17,9 +17,6 @@ The Fitness Tracker Dashboard is a web application that helps users log their wo
 🔹 HTML, CSS, JavaScript – Frontend
 
 📂 File Structure
-csharp
-Copy
-Edit
 fitness-tracker/
 │── templates/        # HTML templates
 │── static/           # CSS, JavaScript, assets
@@ -27,3 +24,30 @@ fitness-tracker/
 │── fitness.db        # SQLite database
 │── requirements.txt  # Dependencies
 │── README.md         # Documentation
+
+🔧 Setup & Installation
+1️⃣ Clone the Repository
+
+git clone https://github.com/Prathyusha029/Fitness-Tracker.git
+cd fitness-tracker
+2️⃣ Create & Activate Virtual Environment
+
+python3 -m venv venv
+source venv/bin/activate  # Mac/Linux
+venv\Scripts\activate     # Windows
+3️⃣ Install Dependencies
+
+pip install -r requirements.txt
+4️⃣ Run the Application
+
+flask run
+5️⃣ Access the App at: http://127.0.0.1:5000
+
+🔮 Future Enhancements
+🚀 Advanced analytics | 🚀 Social features | 🚀 Mobile App | 🚀 Reminders
+
+🤝 Contribution
+🔹 Fork → Create Feature Branch → Commit Changes → Open a Pull Request
+
+📧 Contact: Prathyusha Yekamba | 🔗 GitHub: Prathyusha029
+🔹 Developed with ❤️ using Flask, SQLAlchemy & Chart.js 🔹
