@@ -28,8 +28,7 @@ fitness-tracker/
 🔧 Setup & Installation
 1️⃣ Clone the Repository
 
-git clone https://github.com/Prathyusha029/Fitness-Tracker.git
-cd fitness-tracker
+
 2️⃣ Create & Activate Virtual Environment
 
 python3 -m venv venv
